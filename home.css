@@ -1,6 +1,6 @@
 body
 	{
-		background-color:#d19792;
+		background-color:#44adb2;
 	}
     header
     {
@@ -106,4 +106,7 @@ body
         border-radius: 10px;
     }
 
-    
+	#aboutUsDiv
+	{
+		margin: 0px 175px 0px 175px;
+	}
